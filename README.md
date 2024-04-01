@@ -24,7 +24,7 @@ sudo nmap -sU 10.XX.XX.XX
 
 ### **MagnusBilling**
 
-![image](https://github.com/RunasRs/Billing/assets/165502296/37201c95-7c72-4a32-8107-971f826e936c)
+![image](https://github.com/RunasRs/Billing/assets/165502296/a7a549d3-4a9c-406f-8f62-df89861f2e1e)
 
 [**CVE-2023-30258**](https://nvd.nist.gov/vuln/detail/CVE-2023-30258)
 
